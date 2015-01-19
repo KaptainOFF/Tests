@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. DeclareVariables", "1. DeclareVaruables\1. DeclareVariables.csproj", "{6FB6B3BA-B524-4596-8755-AF04278BAED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booltest", "Booltest\Booltest.csproj", "{6BBC2646-033E-4049-A97C-16D1777103B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chartest", "Chartest\Chartest.csproj", "{52AD640C-AAA3-461A-9EFD-C1D0292E5C5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FB6B3BA-B524-4596-8755-AF04278BAED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB6B3BA-B524-4596-8755-AF04278BAED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB6B3BA-B524-4596-8755-AF04278BAED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB6B3BA-B524-4596-8755-AF04278BAED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BBC2646-033E-4049-A97C-16D1777103B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBC2646-033E-4049-A97C-16D1777103B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBC2646-033E-4049-A97C-16D1777103B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBC2646-033E-4049-A97C-16D1777103B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52AD640C-AAA3-461A-9EFD-C1D0292E5C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AD640C-AAA3-461A-9EFD-C1D0292E5C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AD640C-AAA3-461A-9EFD-C1D0292E5C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AD640C-AAA3-461A-9EFD-C1D0292E5C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
